@@ -5,6 +5,5 @@ This project has two main components: Exploratory data analysis and Customer Seg
 
 Files in this repo:
 * **Untitled3.ipynb**: a Jupyter Notebook containing project code.
-* **welch_functions.py**: functions for conducting Welch's t-test.
 
 The customer segmentation portion of this project was inspired by [this repo](https://github.com/optiflow/rfm-customer-segmentation) by Tern Poh Lim.
